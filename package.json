@@ -1,0 +1,24 @@
+{
+  "name": "tea-sudut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masbasuke/tea-sudut.git"
+  },
+  "author": "masbasuke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masbasuke/tea-sudut/issues"
+  },
+  "homepage": "https://github.com/masbasuke/tea-sudut#readme",
+  "dependencies": {
+    "tea-bacotin": "^1.0.0",
+    "tea-semangat": "^1.0.0",
+    "tea-yulvan": "^1.0.0"
+  }
+}
